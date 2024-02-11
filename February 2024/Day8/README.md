@@ -1,1 +1,0 @@
-[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/?envType=daily-question&envId=2024-02-08)
