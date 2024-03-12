@@ -1,0 +1,1 @@
+[2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/description/?envType=study-plan-v2&envId=leetcode-75)
