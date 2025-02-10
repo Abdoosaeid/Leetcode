@@ -7,4 +7,4 @@
 | #  | Problem Title                                         | Difficulty | Solution Link |
 |----|------------------------------------------------------|------------|--------------|
 | 1  |Clear Digits                                            | ![Easy](https://img.shields.io/badge/Easy-46c6c2)       | [Solution](https://github.com/Abdoosaeid/Leetcode/blob/master/LeetCode-Mastery/Solutions/3174_Clear_Digits.cpp) |
-| 2  |Count Number of Bad Pairs                                             | ![Medium](https://img.shields.io/badge/Medium-fac31d)       | [Solution](https://github.com/Abdoosaeid/LeetCode-Mastery/Solutions/2364CountNumberOfBadPairs.cpp) |
+| 2  |Count Number of Bad Pairs                                             | ![Medium](https://img.shields.io/badge/Medium-fac31d)       | [Solution](https://github.com/Abdoosaeid/Leetcode/blob/master/LeetCode-Mastery/Solutions/2364CountNumberOfBadPairs.cpp) |
