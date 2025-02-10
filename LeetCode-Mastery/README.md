@@ -10,6 +10,6 @@ Welcome to **LeetCode-Mastery**! This repository contains my solutions to variou
 | #  | Problem Title                                         | Difficulty | Solution Link |
 |----|------------------------------------------------------|------------|--------------|
 | 1  |Clear Digits                                            | Easy       | [Solution](https://github.com/Abdoosaeid/Leetcode/blob/master/LeetCode-Mastery/Solutions/3174_Clear_Digits.cpp) |
-
+| 2  |Count Number of Bad Pairs                                             | Medium       | [Solution](https://github.com/Abdoosaeid/Leetcode/blob/master/LeetCode-Mastery/Solutions/2364CountNumberOfBadPairs.cpp) |
 
 
