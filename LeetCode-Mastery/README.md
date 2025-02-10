@@ -1,8 +1,8 @@
 ## 📝 Solved Problems
 
-- **Easy/** → Solutions to beginner-friendly problems.  
-- **Medium/** → Problems that require deeper logic and optimization.  
-- **Hard/** → Advanced-level problems with complex algorithms.  
+- **Easy** → Solutions to beginner-friendly problems.  
+- **Medium** → Problems that require deeper logic and optimization.  
+- **Hard** → Advanced-level problems with complex algorithms.  
 
 | #  | Problem Title                                         | Difficulty | Solution Link |
 |----|------------------------------------------------------|------------|--------------|
