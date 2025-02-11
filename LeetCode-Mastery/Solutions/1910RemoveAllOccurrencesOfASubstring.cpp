@@ -37,3 +37,14 @@ class Solution {
         }
     };
 
+// solution 2
+class Solution {
+    public:
+        string removeOccurrences(string s, string part) {
+            ios_base::sync_with_stdio(false); cout.tie(NULL); cin.tie(NULL);
+            while(s.length()>0 && s.length()>s.find(part)){
+               s.erase(s.find(part),part.length());
+            }
+            return s;
+        }
+    };
