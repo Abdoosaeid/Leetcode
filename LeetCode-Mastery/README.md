@@ -13,4 +13,5 @@ Welcome to **LeetCode-Mastery**! This repository contains my solutions to variou
 | 2  |Count Number of Bad Pairs                                             | ![Medium](https://img.shields.io/badge/Medium-fac31d)       | [Solution](https://github.com/Abdoosaeid/Leetcode/blob/master/LeetCode-Mastery/Solutions/2364CountNumberOfBadPairs.cpp) |
 | 3  |4Sum II                                             | ![Medium](https://img.shields.io/badge/Medium-fac31d)       | [Solution](https://github.com/Abdoosaeid/Leetcode/blob/master/LeetCode-Mastery/Solutions/454_4SumII.cpp) |
 | 4  |Remove All Occurrences of a Substring                                            | ![Medium](https://img.shields.io/badge/Medium-fac31d)       | [Solution](https://github.com/Abdoosaeid/Leetcode/blob/master/LeetCode-Mastery/Solutions/1910RemoveAllOccurrencesOfASubstring.cpp) |
+| 5  |Max Sum of a Pair With Equal Sum of Digits                                        | ![Medium](https://img.shields.io/badge/Medium-fac31d)       | [Solution](https://github.com/Abdoosaeid/Leetcode/blob/master/LeetCode-Mastery/Solutions/2342MaxSumOfAPairWithEqualSumOfDigits.cpp) |
 
