@@ -1,6 +1,7 @@
 # LeetCode-Mastery 🚀
 
 Welcome to **LeetCode-Mastery**! This repository contains my solutions to various LeetCode problems, categorized by difficulty and topic. The goal is to improve problem-solving skills and deepen my understanding of Data Structures and Algorithms (DSA).
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/Abdoo_said/)
 ## 📝 Solved Problems
 
 - **Easy** → Solutions to beginner-friendly problems.  
