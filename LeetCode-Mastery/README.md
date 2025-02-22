@@ -23,4 +23,5 @@ Welcome to **LeetCode-Mastery**! This repository contains my solutions to variou
 | 10 |Construct Smallest Number From DI String                                       | ![Medium](https://img.shields.io/badge/Medium-fac31d)       | [Solution](https://github.com/Abdoosaeid/Leetcode/blob/master/LeetCode-Mastery/Solutions/2375ConstructSmallestNumberFromDIString.cpp) |
 | 11 |The k-th Lexicographical String of All Happy Strings of Length n                                      | ![Medium](https://img.shields.io/badge/Medium-fac31d)       | [Solution](https://github.com/Abdoosaeid/Leetcode/blob/master/LeetCode-Mastery/Solutions/LeetCode1415.cpp) |
 | 12 |Find Unique Binary String                                    | ![Medium](https://img.shields.io/badge/Medium-fac31d)       | [Solution](https://github.com/Abdoosaeid/Leetcode/blob/master/LeetCode-Mastery/Solutions/LeetCode1980.cpp) |
+| 13 |Recover a Tree From Preorder Traversal                                  | ![Medium](https://img.shields.io/badge/Hard-f8615c)       | [Solution](https://github.com/Abdoosaeid/Leetcode/blob/master/LeetCode-Mastery/Solutions/LeetCode1028.cpp) |
 
